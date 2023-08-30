@@ -1,2 +1,3 @@
-0       string   SCHOOL   School data
-!:mime school
+echo '0       string   SCHOOL   School data
+string   SCHOOL   School data
+!:mime application/x-school' > school.mgc
